@@ -4,5 +4,6 @@
 public class HelloWorld {
   public static void main(String[] args) {
     System.out.println("Hello, World from Oracle DevOps create on Oct 20, 2022");
+    System.out.println("Hello, World from Oracle DevOps create on Oct 19, 2022");
   }
 }
